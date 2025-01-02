@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+I am currently a college student trying to learn new things that can help improve my skills when I finally graduate.
+Git Hub seems to be the right place to browse for projects I can work on to improve said skills.
+I would love to grow and learn within this git hub environment
 <!--
 **Furnodevbot/Furnodevbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
